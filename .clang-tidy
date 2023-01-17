@@ -1,6 +1,6 @@
 ---
 # No idea how to fold this line without breaking clang-tidy.
-Checks: 'clang-diagnostic-*,clang-analyzer-*,google-*,performace-*,bugprone-*,cert-*,misc-*,readability-*,modernize-*,-cert-err58-cpp,-misc-misplaced-widening-cast,-modernize-pass-by-value,-modernize-use-equals-default,-modernize-raw-string-literal,-modernize-use-equals-delete,-modernize-use-default-member-init,-modernize-use-emplace,-readability-braces-around-statements,-misc-suspicious-enum-usage'
+Checks: 'clang-diagnostic-*,clang-analyzer-*,google-*,performance-*,bugprone-*,cert-*,misc-*,readability-*,modernize-*,-cert-err58-cpp,-misc-misplaced-widening-cast,-modernize-pass-by-value,-modernize-use-equals-default,-modernize-raw-string-literal,-modernize-use-equals-delete,-modernize-use-default-member-init,-modernize-use-emplace,-readability-braces-around-statements,-misc-suspicious-enum-usage'
 ...
 
 # Disabled checks:
